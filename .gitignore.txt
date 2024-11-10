@@ -1,0 +1,4 @@
+data/
+Maanmittauslaitos_Tiedostopalvelu_REST-20241109T221133793912085/
+master_df_backup.json
+reprojected_raster.tif
