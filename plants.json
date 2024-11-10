@@ -3,7 +3,7 @@
     {
         "Oak":
         {
-            "id": 1,
+            "id": 0,
             "soils":
             {
                 "AC": 1.28,
@@ -45,7 +45,7 @@
         },
         "Horse chestnut":
         {
-            "id": 2,
+            "id": 1,
             "soils":
             {
                 "AC": 0.64,
@@ -87,7 +87,7 @@
         },
         "Black walnut":
         {
-            "id": 3,
+            "id": 2,
             "soils":
             {
                 "AC": 0.97,
@@ -129,7 +129,7 @@
         },
         "London plane":
         {
-            "id": 4,
+            "id": 3,
             "soils":
             {
                 "AC": 0.47,
@@ -171,7 +171,7 @@
         },
         "American sweetgum":
         {
-            "id": 5,
+            "id": 4,
             "soils": {
                 "AC": 0.68,
                 "AL": 0.87,
@@ -212,7 +212,7 @@
         },
         "Spruce":
         {
-            "id": 6,
+            "id": 5,
             "soils": {
                 "AC": 2.09,
                 "AL": 2.47,
@@ -253,7 +253,7 @@
         },
         "Pine":
         {
-            "id": 7,
+            "id": 6,
             "soils": {
                 "AC": 2.40,
                 "AL": 2.72,
