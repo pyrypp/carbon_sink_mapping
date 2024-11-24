@@ -1,3 +1,7 @@
+'''
+Code by Anssi Lampinen
+'''
+
 import json
 
 with open("plants.json", "r") as file:
