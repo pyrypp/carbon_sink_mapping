@@ -1,3 +1,7 @@
+'''
+Code by Pyry Pohjanoksa
+'''
+
 import streamlit as st
 import os
 
