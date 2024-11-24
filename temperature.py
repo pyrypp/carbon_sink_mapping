@@ -1,5 +1,7 @@
 '''
 Use function scoreFromCsv
+
+Code by Anssi Lampinen
 '''
 
 from math import exp
