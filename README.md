@@ -27,8 +27,7 @@ _Forest image: CC BY 2.0 Roman Boed_
   - Biomass
 - Working on a data science project as a team
   - Task division
-  - Sharing data
-  - Sharing code
+  - Sharing data and code
  
 ## Potential next steps
 - Building a more accurate model for tree compatibility
